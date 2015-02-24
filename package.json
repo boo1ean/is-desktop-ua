@@ -1,0 +1,21 @@
+{
+  "name": "is-desktop-ua",
+  "version": "0.1.0",
+  "description": "Detect desktop useragent",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "useragent",
+    "desktop",
+    "ua",
+    "user-agent"
+  ],
+  "author": "Egor Gumenyuk <boo1ean0807@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^5.0.1"
+  }
+}
